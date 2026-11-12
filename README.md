@@ -2,11 +2,11 @@
 
   <!-- Animated Typing Banner -->
   <a href="https://github.com/MinaEwedaa">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&height=70&lines=Hi+%F0%9F%91%8B+I'm+Mina+Eweda;Software+Engineer+%7C+Mobile+%26+Full-Stack;Building+Scalable+Mobile+%26+Web+Applications;Flutter+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+C%23" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D2FF&center=true&vCenter=true&random=false&width=700&height=70&lines=Hi+%F0%9F%91%8B+I'm+Mina+Eweda;Junior+Backend+Engineer+%7C+Java+%26+Spring+Boot;Building+Secure+%26+Scalable+FinTech+Architectures;Focusing+on+Distributed+Systems+%26+Clean+Code" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <b>Passionate Software Engineer dedicated to crafting intuitive mobile experiences, scalable backends, and modern FinTech & ML-powered applications.</b>
+    <b>Backend-focused Software Engineer passionate about FinTech, robust transaction handling, and scalable microservices built with Java & Spring Boot.</b>
   </p>
 
   <!-- Quick Social Badges -->
@@ -18,7 +18,7 @@
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://github.com/MinaEwedaa?tab=repositories">
-      <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Projects" />
+      <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
     </a>
   </p>
 
@@ -26,81 +26,80 @@
 
 ---
 
-### 🚀 About Me
+### 💼 About Me
 
 ```yaml
 name: Mina Eweda
-role: Software Engineer / Full-Stack & Mobile Developer
-core_focus: [Mobile (Flutter/Dart), Full-Stack (TypeScript, Python, C#)]
-passions: [Clean Architecture, FinTech Systems, ML Integration, Smooth UI/UX]
-current_work: Building next-gen mobile & cross-platform solutions
+role: Junior Backend / Full-Stack Software Engineer
+domain: FinTech & Secure Financial Systems
+primary_stack: [Java, Spring Boot, Spring Security, Hibernate / JPA, PostgreSQL]
+architectural_principles: [Clean Code, ACID Compliance, RESTful API Design, Microservices]
+currently_learning: [Distributed Transactions (Saga pattern), Apache Kafka, Cloud-Native Deployment]
 ```
 
-- 🔭 **Current Focus:** Engineering high-performance mobile apps with **Flutter** & scalable web services.
-- 💡 **Specialties:** State management, Clean Architecture, RESTful API integration, and FinTech workflows.
-- 🧠 **Exploring:** Machine Learning integrations with mobile apps and modern cloud-native systems.
-- 💬 **Ask me about:** Dart, Flutter, TypeScript, C#, and building robust architectures.
+- 💳 **Domain Focus:** Developing reliable FinTech systems — digital wallets, banking ledgers, transactional consistency, and idempotent payment workflows.
+- ⚙️ **Backend Engineering:** Designing resilient RESTful APIs, implementing robust authentication (JWT / OAuth2), and fine-tuning relational database queries.
+- 🧱 **System Quality:** Adhering to SOLID principles, Design Patterns, and thorough unit/integration testing with JUnit 5 & Mockito.
+- 🌐 **Full-Stack Capable:** Experienced in connecting performant Spring Boot backends to modern TypeScript/React user interfaces.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Architecture Toolkit
 
 <div align="center">
 
-#### 💻 Programming Languages
+#### ☕ Backend & Frameworks
 <p>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/RESTful_APIs-0052CC?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
+</p>
+
+#### 🗄️ Databases, Caching & Data Integrity
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white" alt="Liquibase" />
+</p>
+
+#### 🌐 Full-Stack & Frontend
+<p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-#### 📱 Frameworks & Libraries
+#### 🧪 Testing, DevOps & Tools
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-</p>
-
-#### 🗄️ Backend, Databases & Cloud
-<p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
-</p>
-
-#### 🧰 Developer Tools & DevOps
-<p>
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white" alt="Mapbox" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
 </p>
 
 </div>
 
 ---
 
-### 🌟 Featured Projects
+### 💳 Featured FinTech & Backend Projects
 
-| Project | Tech Stack | Highlights |
+| Project | Core Stack | Key Highlights |
 | :--- | :--- | :--- |
-| 📱 **[O-tFha](https://github.com/MinaEwedaa/O-tFha)** | `Dart` • `Flutter` • `ML` | Machine learning-based smart mobile solution engineered for real-time predictions and user experiences. |
-| 💼 **[SME360](https://github.com/MinaEwedaa/SME360)** | `Dart` • `Flutter` | Mobile platform providing streamlined management and operational insights for small & medium enterprises. |
-| 💳 **[Digital Wallet & Finance](https://github.com/MinaEwedaa/Digital-Wallet)** | `FinTech` • `Clean Architecture` | Secure transaction tracking, personal finance budgeting, and digital account ledger workflows. |
-| 🛍️ **[O-tfha E-Commerce](https://github.com/MinaEwedaa/O-tfha-E-commerce)** | `TypeScript` • `Web` | Full-stack e-commerce web platform featuring product catalog, cart workflows, and responsive UI. |
-| 🗺️ **[Mapbox Evaluation Lab](https://github.com/MinaEwedaa/Mapbox-Evaluation-Lab)** | `TypeScript` • `Geospatial` | Interactive geospatial mapping experiments and location-based integration lab. |
+| 🏦 **[Banking Account Management](https://github.com/MinaEwedaa/-Banking-Account-Management)** | `Java` • `Spring Boot` • `PostgreSQL` | Secure core banking engine managing account lifecycles, debit/credit transaction flows, ACID guarantees, and audit logs. |
+| 👛 **[Digital Wallet Service](https://github.com/MinaEwedaa/Digital-Wallet)** | `Java` • `Spring Security` • `REST` | Microservice architecture handling wallet balances, currency transactions, authentication, and concurrency control. |
+| 📈 **[Personal Finance Tracker](https://github.com/MinaEwedaa/Personal-Finance-Tracker)** | `Java` • `Full-Stack` • `JPA` | Multi-category personal ledger offering expense tracking, budgeting analysis, and automated financial insights. |
+| ⚡ **[Massar / Enterprise System](https://github.com/MinaEwedaa/Massar)** | `TypeScript` • `REST APIs` • `SQL` | Scalable full-stack operational management system with role-based access control and responsive interfaces. |
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
   <p align="center">
@@ -114,24 +113,24 @@ current_work: Building next-gen mobile & cross-platform solutions
 
 ---
 
-### 🤝 Let's Connect!
+### 📬 Connect With Me
 
 <div align="center">
 
-  **Looking to collaborate on exciting mobile, web, or open-source projects? Drop me a message!**
+  **Looking to collaborate on FinTech backends, distributed systems, or enterprise Java applications? Let's connect!**
 
   <p align="center">
     <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" />
     </a>
     <a href="mailto:your.email@example.com">
-      <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-red?style=flat-square&logo=gmail" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-Direct%20Message-D14836?style=flat-square&logo=gmail" alt="Email" />
     </a>
     <a href="https://github.com/MinaEwedaa">
-      <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github" alt="GitHub" />
     </a>
   </p>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=70&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,15,30&height=70&section=footer" width="100%" />
 
 </div>
