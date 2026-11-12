@@ -1,15 +1,3 @@
-# GitHub Profile README for Mina Eweda
-
-To use this on your GitHub profile:
-1. Go to **https://github.com/new**
-2. Repository name: **`MinaEwedaa`** (must match your username exactly)
-3. Set visibility to **Public**
-4. Check **"Add a README file"**
-5. Copy everything inside the markdown block below and paste it into that `README.md`!
-
----
-
-```markdown
 <div align="center">
 
   <!-- Animated Typing Banner -->
@@ -147,4 +135,3 @@ current_work: Building next-gen mobile & cross-platform solutions
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=70&section=footer" width="100%" />
 
 </div>
-```
