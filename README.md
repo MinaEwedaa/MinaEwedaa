@@ -19,7 +19,7 @@
 
   <!-- Quick Social Badges -->
   <p align="center">
-    <a href="[https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/mina-eweda-3964982b9/)" target="_blank">
+    <a href="[https://linkedin.com/in/mina-eweda](https://www.linkedin.com/in/mina-eweda-3964982b9/)" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:minasamoil205@gmail.com">
