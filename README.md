@@ -1,9 +1,17 @@
 <div align="center">
 
+  <!-- Top Waving Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&theme=cobalt" width="100%" />
+
   <!-- Animated Typing Banner -->
   <a href="https://github.com/MinaEwedaa">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D2FF&center=true&vCenter=true&random=false&width=700&height=70&lines=Hi+%F0%9F%91%8B+I'm+Mina+Eweda;Junior+Backend+Engineer+%7C+Java+%26+Spring+Boot;Building+Secure+%26+Scalable+FinTech+Architectures;Focusing+on+Distributed+Systems+%26+Clean+Code" alt="Typing SVG" />
   </a>
+
+  <!-- Animated Coding GIF -->
+  <p align="center">
+    <img src="https://media.giphy.com/media/g79am6uuZJKSc/giphy.gif" width="360" alt="Backend Coding" />
+  </p>
 
   <p align="center">
     <b>Backend-focused Software Engineer passionate about FinTech, robust transaction handling, and scalable microservices built with Java & Spring Boot.</b>
